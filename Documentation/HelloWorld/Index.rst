@@ -13,7 +13,7 @@ T3CRR
 .. tip:: Das ist ja super
 
 Sessions
-—-------
+--------
 
 - eins
 - zwei
